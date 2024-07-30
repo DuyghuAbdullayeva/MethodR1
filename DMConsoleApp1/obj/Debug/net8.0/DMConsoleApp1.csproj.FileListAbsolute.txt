@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\bin\Debug\net8.0\DMConsoleApp1.exe
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\bin\Debug\net8.0\DMConsoleApp1.deps.json
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\bin\Debug\net8.0\DMConsoleApp1.runtimeconfig.json
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\bin\Debug\net8.0\DMConsoleApp1.dll
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\bin\Debug\net8.0\DMConsoleApp1.pdb
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\DMConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\DMConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\DMConsoleApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\DMConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\DMConsoleApp1.dll
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\refint\DMConsoleApp1.dll
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\DMConsoleApp1.pdb
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\DMConsoleApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\AddandSubtract\MethodConsoleApp1\DMConsoleApp1\obj\Debug\net8.0\ref\DMConsoleApp1.dll
